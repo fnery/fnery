@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Fabio 👋
+
+---
+
+<a href="https://linkedin.com/in/fabionery"><img align="left" alt="Fabio's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+<a href="https://github.com/fnery"><img align="left" alt="Fabio's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
 
 <!--
 **fnery/fnery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
