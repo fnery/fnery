@@ -3,6 +3,7 @@
 ---
 
 <a href="https://linkedin.com/in/fabionery"><img align="left" alt="Fabio's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+<a href="https://orcid.org/0000-0002-4220-0997"><img align="left" alt="Fabio's ORCID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/orcid.svg"></a>
 <a href="https://github.com/fnery"><img align="left" alt="Fabio's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></a>
 
 <!--
